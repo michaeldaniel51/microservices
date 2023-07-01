@@ -1,0 +1,5 @@
+com\dannycodes\bank_transfer\BankAccountController.class
+com\dannycodes\bank_transfer\BankAccountService.class
+com\dannycodes\bank_transfer\BankAccountRepository.class
+com\dannycodes\bank_transfer\BankTransferApplication.class
+com\dannycodes\bank_transfer\BankAccount.class
